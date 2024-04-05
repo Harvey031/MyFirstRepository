@@ -4,6 +4,10 @@
 
 background-image: url("popular.jpg");
 
+
+
+
+
      
 */
 
@@ -28,14 +32,37 @@ body {
 }
 
 .header {
-  text-align: center;
+  display: flex;
+  align-items: center;
   margin-bottom: 20px;
 }
 
-.img-area img {
-  width: 150px;
-  height: 150px;
+
+.img-area {
+  width: 170px;
+  height: 170px;
   border-radius: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  
+
+ 
+}
+
+
+.text-area {
+  flex:1
+}
+
+
+
+
+.img-area img {
+  width: 230px;
+  height: 90px;
+  border-radius: 0;
+  margin-bottom: 10px;
+  margin-top: 50px;
 }
 
 h1 {
@@ -63,7 +90,11 @@ h2 {
   color: #fff;
   padding: 8px;
   border-radius: 15px;
-  margin-bottom: 15px;
+  margin: 3px;
+}
+
+.right p {
+  padding: 15px;
 }
 
 ul {
@@ -82,9 +113,28 @@ ul li img {
   vertical-align: middle;
 }
 
-@media only screen and (max-width: 600px) {
-  .main {
-      flex-direction: column;
+footer {
+  text-align: center;
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 5px solid #ccc;
+  
+}
+
+footer p {
+  font-size: 14px;
+  color: Solid Black;
+}
+
+@media only screen and (max-width: 700px) {
+  .img-area {
+    
+
+
+    
+    background-repeat: no-repeat;
+    background-size:contain;
+      
   }
 
   .left,
@@ -92,12 +142,28 @@ ul li img {
       flex: none;
       width: 100%;
   }
+
+
+
+}
+
+.prog {
+  margin: 5px;
 }
 
 
-.prog {
+.h2 p {
 
 
-margin:5;
+text-align: left;
 
+
+}
+
+
+.awards p {
+
+ padding 1;
+ text-align: left;
+ 
 }
