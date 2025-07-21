@@ -1,7 +1,7 @@
 🗓️ Days 1–10: Basics & Console Input/Output
 Day	Topic	Task
-1	Hello World	Print "Hello World" to the console.
-2	Variables	Declare int, string, and bool variables. Print them.
+1	Hello World	Print "Hello World" to the console. FINSIHED
+2	Variables	Declare int, string, and bool variables. Print them. FINISHED
 3	Input	Ask user for their name and greet them.
 4	Math	Ask for two numbers and print their sum.
 5	Operators	Show use of +, -, *, /, %.
