@@ -2,18 +2,18 @@
 Day	Topic	Task
 1	Hello World	Print "Hello World" to the console. FINSIHED
 2	Variables	Declare int, string, and bool variables. Print them. FINISHED
-3	Input	Ask user for their name and greet them.
-4	Math	Ask for two numbers and print their sum.
-5	Operators	Show use of +, -, *, /, %.
-6	Constants	Create a constant PI and print it.
-7	String Methods	Use .ToUpper(), .ToLower(), .Trim().
-8	Converting Types	Convert string to int using int.Parse().
-9	TryParse	Safely parse user input with int.TryParse().
-10	Comments	Practice writing single and multi-line comments.
+3	Input	Ask user for their name and greet them. FINISHED
+4	Math	Ask for two numbers and print their sum. FINISHED
+5	Operators	Show use of +, -, *, /, %. FINISHED
+6	Constants	Create a constant PI and print it. FINISHED
+7	String Methods	Use .ToUpper(), .ToLower(), .Trim(). FINISHED
+8	Converting Types	Convert string to int using int.Parse(). FINISHED
+9	TryParse	Safely parse user input with int.TryParse(). FINISHED
+10	Comments	Practice writing single and multi-line comments. FINISHED
 
 🗓️ Days 11–20: Conditionals & Logic
 Day	Topic	Task
-11	If Statement	Check if a number is positive or negative.
+11	If Statement	Check if a number is positive or negative. FINISIHED
 12	If-Else	Ask age and print "minor" or "adult".
 13	Else-If	Grade system (A, B, C, etc.) based on score.
 14	Nested If	Add nested logic inside an if.
