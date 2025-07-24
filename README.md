@@ -14,7 +14,7 @@ Day	Topic	Task
 🗓️ Days 11–20: Conditionals & Logic
 Day	Topic	Task
 11	If Statement	Check if a number is positive or negative. FINISIHED
-12	If-Else	Ask age and print "minor" or "adult".
+12	If-Else	Ask age and print "minor" or "adult". FINISHED
 13	Else-If	Grade system (A, B, C, etc.) based on score.
 14	Nested If	Add nested logic inside an if.
 15	Logical Operators	Use &&, `
